@@ -14,11 +14,11 @@
     ]
   },
   "launcher": {
-    "version": "2.0.0",
+    "version": "1.0.0",
     "url": "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.0/EnterraLauncher-Setup.exe",
-    "sha256": "CC00A48531D5F263C0FE20314EF725F5C72F8B234980770EFACD89AF7549DB65",
-    "size": 78200722,
-    "notes": "Новый лаунчер: неоновый дизайн, сборка Enterra Frost, Minecraft 26.2, вход по нику.",
+    "sha256": "B2C049DD3EEB4D1CD109538935E88F87309EAF540BBC5841A3FB7787C8283D2E",
+    "size": 78199960,
+    "notes": "Первый выпуск: сборка Enterra Frost, Minecraft 26.2, вход по нику, автоподключение к серверу.",
     "mandatory": false
   },
   "server": {
@@ -36,7 +36,7 @@
     {
       "date": "2026-11-19",
       "title": "Новый лаунчер",
-      "text": "Вход по нику, автоподключение к серверу и проверка целостности сборки.",
+      "text": "Лаунчер 1.0: вход по нику, автоподключение к серверу и проверка целостности сборки.",
       "image": "gift.jpg"
     }
   ],
