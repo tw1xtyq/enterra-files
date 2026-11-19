@@ -16,8 +16,8 @@
   "launcher": {
     "version": "1.0.0",
     "url": "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.0/EnterraLauncher-Setup.exe",
-    "sha256": "B2C049DD3EEB4D1CD109538935E88F87309EAF540BBC5841A3FB7787C8283D2E",
-    "size": 78199960,
+    "sha256": "B4A2A91D420730764B2CC7E54A14B8A5D823EF3554E3FE443E3F429B3CDEA738",
+    "size": 78199933,
     "notes": "Первый выпуск: сборка Enterra Frost, Minecraft 26.2, вход по нику, автоподключение к серверу.",
     "mandatory": false
   },
