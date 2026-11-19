@@ -1,0 +1,48 @@
+{
+  "tagline": "Больше, чем просто сервер. Целый мир возможностей.",
+  "modpack": {
+    "name": "Enterra Frost",
+    "version": "1.0",
+    "mcVersion": "26.2",
+    "fabricLoader": "0.20.1",
+    "fileName": "Enterra-Frost-1.0.zip",
+    "size": 75942239,
+    "sha256": "47E722E214C7245B6BA89942E5BCB0520B9E18AA04A2F85B53230E11439C6660",
+    "modCount": 48,
+    "urls": [
+      "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.0/Enterra-Frost-1.0.zip"
+    ]
+  },
+  "launcher": {
+    "version": "2.0.0",
+    "url": "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.0/EnterraLauncher-Setup.exe",
+    "sha256": "CC00A48531D5F263C0FE20314EF725F5C72F8B234980770EFACD89AF7549DB65",
+    "size": 78200722,
+    "notes": "Новый лаунчер: неоновый дизайн, сборка Enterra Frost, Minecraft 26.2, вход по нику.",
+    "mandatory": false
+  },
+  "server": {
+    "host": "mc.enterra.tech",
+    "port": 31363,
+    "name": "Enterra"
+  },
+  "news": [
+    {
+      "date": "2026-11-19",
+      "title": "Сборка Enterra Frost 1.0",
+      "text": "Новое главное меню, неоновые инвентари и 48 модов. Лаунчер скачает всё сам при первом запуске.",
+      "image": "castle.jpg"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Новый лаунчер",
+      "text": "Вход по нику, автоподключение к серверу и проверка целостности сборки.",
+      "image": "gift.jpg"
+    }
+  ],
+  "links": {
+    "site": "https://mc.enterra.tech",
+    "shop": "https://mc.enterra.tech/shop",
+    "telegram": "https://t.me/enterramc"
+  }
+}
