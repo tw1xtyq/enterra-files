@@ -1,25 +1,25 @@
 {
-  "tagline": "Enterra Frost 1.1 — выживание и бартер на Minecraft 26.2.",
+  "tagline": "Enterra Frost 1.6.2 — выживание и бартер на Minecraft 26.2.",
   "modpack": {
     "name": "Enterra Frost",
-    "version": "1.1",
+    "version": "1.6.2",
     "mcVersion": "26.2",
     "fabricLoader": "0.20.1",
-    "fileName": "Enterra-Frost-1.1.zip",
-    "size": 80981012,
-    "sha256": "37BE56CA21DD53EA7183FFF09561BB9D0E331B5CB0112CE84EA7E181BCB1C046",
-    "modCount": 49,
+    "fileName": "Enterra-Frost-1.6.2.zip",
+    "size": 96916704,
+    "sha256": "4E9A719D20F206F74EE090CDDC963C48563C15EB98F48162995B33729E2589C4",
+    "modCount": 52,
     "urls": [
-      "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.1/Enterra-Frost-1.1.zip"
+      "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.6.2/Enterra-Frost-1.6.2.zip"
     ]
   },
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.1/EnterraLauncher-Setup.exe",
-    "sha256": "5A58641703FB14363A587292E3291C2B1513E1F0B30A633B57057F12E012F115",
-    "size": 81095052,
-    "notes": "- Enterra Frost 1.1, 49 модов, новое игровое меню по клавише G и Enterra Trade.\n- Сезонные логотипы и эмблемы.\n- Быстрее проверка установленного Minecraft, кэш сохраняется после ошибок сети.\n- Повторный вход Microsoft доступен прямо из сообщения об истекшей сессии.",
-    "mandatory": false
+    "version": "1.2.3",
+    "url": "https://github.com/tw1xtyq/enterra-files/releases/download/frost-1.6.2/EnterraLauncher-Setup.exe",
+    "notes": "- Нативное меню Enterra с иконками предметов Minecraft.\n- Исправлены поля ввода и подсказки в формах.\n- Семь наград дня собраны в сетку. Кнопка получения закреплена внизу.\n- В клиентский архив включён обновлённый ресурс-пак. Модели Ледяного стража и Повелителя бури для BetterModel лежат в отдельном серверном ZIP.",
+    "mandatory": false,
+    "sha256": "780866A256EECFD4DEB3DC2825E015E3A439698A316CE4AE4DE91960DD1CC435",
+    "size": 81095470
   },
   "server": {
     "host": "mc.enterra.tech",
@@ -27,6 +27,13 @@
     "name": "Enterra"
   },
   "news": [
+    {
+      "url": "https://github.com/tw1xtyq/enterra-files/releases/tag/frost-1.6.2",
+      "image": "castle.jpg",
+      "title": "Enterra Frost 1.6.2",
+      "text": "Нативное меню, обновлённые поля ввода, удобная сетка наград и ресурс-пак с новыми моделями боссов.",
+      "date": "2026-11-27"
+    },
     {
       "date": "2026-11-26",
       "title": "Enterra Frost 1.1",
